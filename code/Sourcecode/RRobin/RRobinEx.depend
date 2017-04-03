@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1479772787 source:e:\os\project\rrobinex\main.cpp
+	"libxl.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<sstream>
+
+1371630290 e:\os\project\libxl-3.5.0.0\include_cpp\libxl.h
+	"IBookT.h"
+	"ISheetT.h"
+	"IFormatT.h"
+	"IFontT.h"
+
+1371630290 e:\os\project\libxl-3.5.0.0\include_cpp\ibookt.h
+	<stddef.h>
+	"setup.h"
+	"enum.h"
+
+1371630290 e:\os\project\libxl-3.5.0.0\include_cpp\setup.h
+
+1371630290 e:\os\project\libxl-3.5.0.0\include_cpp\enum.h
+
+1371630290 e:\os\project\libxl-3.5.0.0\include_cpp\isheett.h
+	"setup.h"
+	"enum.h"
+
+1371630290 e:\os\project\libxl-3.5.0.0\include_cpp\iformatt.h
+	"setup.h"
+	"enum.h"
+
+1371630290 e:\os\project\libxl-3.5.0.0\include_cpp\ifontt.h
+	"setup.h"
+	"enum.h"
+
